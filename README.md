@@ -1,5 +1,4 @@
 # Mission to Mars
-# Mission to Mars
 
 ## Step 1 - Scraping
 
